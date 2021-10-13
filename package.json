@@ -1,0 +1,16 @@
+{
+	"name": "hentai-brasil-addon",
+	"version": "0.0.1",
+	"description": "",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"axios": "^0.21.4",
+		"dotenv": "^10.0.0",
+		"jsdom": "^17.0.0",
+		"mongoose": "^6.0.10",
+		"moviedb-promise": "^3.1.10",
+		"stremio-addon-sdk": "1.1.x"
+	}
+}
